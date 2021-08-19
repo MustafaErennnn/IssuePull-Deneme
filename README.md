@@ -7,3 +7,6 @@ git commit -m "MustafaErennn eklendi"
 git push origin branchadi
 
 Bu adımdan sonra değişilik yapanlar pull request kısmına gelecekler. Compare kısmında kendi ekledikleri branchi seçecekler. Sonradan create pull request diyecekler. Ve bu sayede projenin yöneticisi ki bu durumda bu hesap oluyor pull requestini inceledikten sonra merge edebilirler. Merge ettikten sonra ise ana repo güncellenecek.
+
+MustafaErennn-> pull request atti
+
